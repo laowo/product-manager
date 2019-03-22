@@ -1,0 +1,9 @@
+.wrapper{
+  width: 320px;
+  margin: 10% auto 0px;
+}
+.logo{
+  text-align: center;
+  font-weight: 600;
+  font-size: 28px;
+}

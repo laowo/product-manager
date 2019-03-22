@@ -1,0 +1,21 @@
+.layout{
+  height: 100%;
+  background: #fff;
+}
+.logo{
+  width: 120px;
+  height: 32px;
+  background: rgba(255,255,255,.2);
+  margin: 16px 24px 16px 0;
+  float: left;
+}
+.logout{
+  float: right;
+  font-size: 24px;
+  color: #fff;
+  margin: 20px 0 20px 0;
+}
+.layout_content{
+  flex: 1;
+  padding: 24px;
+}

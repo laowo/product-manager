@@ -1,0 +1,24 @@
+{
+	"_id" : ObjectId("5c9335d1ec0cd92bd0694e89"),
+	"name" : "iphone xs",
+	"postage" : NumberInt(10),
+	"price" : NumberInt(8500)
+},
+{
+	"_id" : ObjectId("5c88b89362da201300b67557"),
+	"name" : "智能冰箱",
+	"postage" : NumberInt(50),
+	"price" : NumberInt(2800)
+},
+{
+	"_id" : ObjectId("5c821d2493fd873eb4284e61"),
+	"name" : "海尔空调",
+	"postage" : NumberInt(25),
+	"price" : NumberInt(4500)
+},
+{
+	"_id" : ObjectId("5c821cba7a8b633cb412171b"),
+	"name" : "羽绒服008",
+	"postage" : NumberInt(0),
+	"price" : NumberInt(900)
+},
