@@ -1,5 +1,5 @@
-# product-manager
-umi+antd+dva搭建的一个商品管理系统
+<h1 style="text-align: center">商品管理系统</h1>
+前端采用umi+antd+dva技术栈，后端采用express框架，数据库采用mongodb
 
 ## Usage
 
