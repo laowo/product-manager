@@ -6,8 +6,15 @@
 ### Use bash
 
 ```bash
-$ git clone https://github.com/ant-design/ant-design-pro.git --depth=1
-$ cd ant-design-pro
-$ npm install
+$ git clone https://github.com/laowo/project-manager.git --depth=1
+$ cd project-manager
+$ npm i
 $ npm start         # visit http://localhost:8000
+```
+
+### Use server
+```server
+$ cd server
+$ npm i
+$ node app          # visit http://localhost:8001
 ```
